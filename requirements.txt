@@ -3,7 +3,7 @@ dagster_duckdb_pandas
 dagster_duckdb
 dagster-cloud
 dagster-webserver
-dagster-dlt
+# dagster-dlt
 dlt
 Faker==18.4.0
 matplotlib
